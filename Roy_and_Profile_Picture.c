@@ -9,21 +9,18 @@ int main()
         scanf("%d%d",&a,&b);
         if(n>a || n>b )
         {
-            printf("UPLOAD ANOTHER
-");
+            printf("UPLOAD ANOTHER");
             
         }
         else
         {
             if(a==b)
             {
-                printf("ACCEPTED
-");
+                printf("ACCEPTED");
             }
             else
             {
-                printf("CROP IT
-");
+                printf("CROP IT");
             }
         }
     }
